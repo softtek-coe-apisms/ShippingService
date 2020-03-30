@@ -1,0 +1,15 @@
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.AssemblyInfoInputs.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.AssemblyInfo.cs
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\bin\Debug\netcoreapp2.1\ShippingService.deps.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\bin\Debug\netcoreapp2.1\ShippingService.runtimeconfig.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\bin\Debug\netcoreapp2.1\ShippingService.runtimeconfig.dev.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\bin\Debug\netcoreapp2.1\ShippingService.dll
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.RazorAssemblyInfo.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.RazorAssemblyInfo.cs
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.RazorTargetAssemblyInfo.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\bin\Debug\netcoreapp2.1\ShippingService.pdb
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.dll
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\ShippingService.pdb
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\ShippingService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
